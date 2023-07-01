@@ -87,8 +87,8 @@ If an error occurs during the API calls, the server will respond with an appropr
 1. Clone the repository or download the source code.
 2. Install the dependencies by running `npm install`.
 3. Make sure MongoDB is running on your system.
-4. Update the MongoDB connection URL and JWT secret key in the `index.js` file.
-5. Start the server by running `node index.js`.
+4. Update the MongoDB connection URL and JWT secret key in the `userController.js` file.
+5. Start the server by running `npm start`.
 6. Access the API endpoints using a tool like Postman.
 
 Please note that this is a basic example, and you can enhance the functionality, add more endpoints, and implement additional features as per your requirements.
